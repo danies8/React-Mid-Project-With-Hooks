@@ -1,0 +1,62 @@
+.borderRedStyle{
+  border-color:red;
+  border-style:solid;
+  padding: 20px;
+  width: 350px;
+  margin:5px;
+}
+
+.borderGreenStyle{
+  border-color:green;
+  border-style:solid;
+  padding: 20px;
+  width: 350px;
+  margin:5px;
+}
+
+.yellowButton1{
+  background-color: yellow;
+  font-weight: bold;
+  margin-right: 12px;
+}
+
+.grayButton{
+  background-color: gray;
+  font-weight: bold;
+}
+
+
+.alignLeft{
+  float:right;
+  margin-right: 100px;
+}
+
+.visibleStyle{
+  visibility:visible;
+
+  border-radius: 25px;
+  border-color:gray;
+  border-style:solid;
+  padding: 20px;
+  width: 300px;
+  margin:5px;
+}
+
+.hiddenStyle{
+  display:none;
+
+  border-radius: 25px;
+  border-color:gray;
+  border-style:solid;
+  padding: 20px;
+  width: 250px;
+  margin:5px;
+}
+
+.orangeStyle{
+  background-color: orange;
+}
+
+.regularStyle{
+  background-color: white;
+}

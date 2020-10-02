@@ -1,0 +1,23 @@
+.markCompletedVisibleStyle{
+  visibility:visible;
+  background-color: yellow;
+  font-weight: bold;
+  margin-left: 110px;
+}
+
+.markCompletedHiddenStyle{
+  display:none;
+}
+
+.borderTodoStyle{
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 350px;
+  border-color:purple;
+  margin-right:20px;
+  margin-top:20px;
+  float: right; 
+}
+
+

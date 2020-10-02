@@ -1,0 +1,33 @@
+.borderUsersList{
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 400px;
+  border-color:black;
+  margin-left:20px;
+  margin-top:20px;
+  float: left; 
+}
+
+.yellowButton{
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.flotRight{
+ float: right; 
+}
+
+.wrappper{
+  height:auto;
+  width:auto;
+ }
+
+ .visiblityElementStyle{
+  visibility:visible;
+}
+
+.hiddenElementStyle{
+  display:none;
+}
+

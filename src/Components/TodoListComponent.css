@@ -1,0 +1,18 @@
+.yellowButton{
+  background-color: yellow;
+  font-weight: bold;
+  float: right;
+  margin-right: 25px;
+}
+
+.borderTodoListStyle{
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 420px;
+  border-color:purple;
+  margin-left:20px;
+  margin-top:20px;
+  float: right; 
+  clear: right;
+}
